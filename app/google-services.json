@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89925076314",
+    "project_id": "sparkx-intern",
+    "storage_bucket": "sparkx-intern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89925076314:android:d38c5f30452534f9eedf63",
+        "android_client_info": {
+          "package_name": "com.example.sparkx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89925076314-huh8q15mn048koqrriokf6e0vqk0l49b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvbPDcpAVbEQVmpbT1L6IkhUs1_a-Bvfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89925076314-huh8q15mn048koqrriokf6e0vqk0l49b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

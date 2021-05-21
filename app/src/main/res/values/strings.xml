@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Intern Diary</string>
+    <string name="Email">Email</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="intern_diary">Intern Diary</string>
+    <string name="Password">Password</string>
+    <string name="username">Username</string>
+    <string name="phone">Phone</string>
+    <string name="builtby">Built by Josna Maria Jose</string>
+    <string name="for_">for Task #5 of GRIP at The Sparks Foundation</string>
+    <string name="msg">By clicking on login, you are accepting our privacy policy \nand terms &amp; conditions.</string>
+    <string name="or">-----Or-----</string>
+    <string name="google_login">Log In with Google</string>
+    <string name="xyz" tools:ignore="StringEscaping">No account?</string>
+    <string name="facebook_app_id">804520163779692</string> //For Facebook Login
+    <string name="fb_login_protocol_scheme">fb804520163779692</string>  //For Facebook Login
+
+</resources>
